@@ -21,35 +21,30 @@
                     },
                     "boards": [
                         {
-                            "name": "DSTIKE by Travis Lin"
-                        },
-                        {
                             "name": "NodeMCU 0.9 (ESP-12 Module)"
                         },
                         {
                             "name": "NodeMCU 1.0 (ESP-12E Module)"
                         },
                         {
+                            "name": "Generic ESP8266 Module"
+                        },
+                        {
+                            "name": "Generic ESP8285 Module"
+                        },
+                        {
                             "name": "Adafruit HUZZAH ESP8266"
                         },
                         {
-                            "name": "WEMOS D1 mini"
+                            "name": "LOLIN(WEMOS) D1 mini"
                         },
                         {
                             "name": "Olimex MOD-WIFI-ESP8266(-DEV)"
                         },
                         {
                             "name": "SparkFun ESP8266 Thing"
-                        },
-                        {
-                            "name": "SweetPea ESP-210"
-                        },
-                        {
-                            "name": "Generic ESP8266 Module"
-                        },
-                        {
-                            "name": "Generic ESP8285 Module"
                         }
+
                     ],
                     "toolsDependencies": [
                         {
