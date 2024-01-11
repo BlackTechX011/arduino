@@ -4,11 +4,11 @@
             "name": "deautherx",
             "maintainer": "BlackTechX",
             "help": {
-                "online": "https://github.com/spacehuhntech"
+                "online": "https://github.com/BlackTechX011"
             },
             "platforms": [
                 {
-                    "name": "Deautherx ESP8266 Boards",
+                    "name": "DeautherX ESP8266 Boards",
                     "architecture": "esp8266",
                     "version": "1.0.1",
                     "category": "deauther",
