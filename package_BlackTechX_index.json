@@ -1,20 +1,18 @@
 {
     "packages": [
         {
-            "name": "deauther",
-            "maintainer": "Spacehuhn Technologies",
-            "websiteURL": "https://spacehuhn.tech",
-            "email": "support@spacehuhn.tech",
+            "name": "deautherx",
+            "maintainer": "BlackTechX",
             "help": {
                 "online": "https://github.com/spacehuhntech"
             },
             "platforms": [
                 {
-                    "name": "Deauther ESP8266 Boards",
+                    "name": "Deautherx ESP8266 Boards",
                     "architecture": "esp8266",
-                    "version": "2.0.0",
+                    "version": "1.0.0",
                     "category": "deauther",
-                    "url": "https://github.com/spacehuhntech/arduino/releases/download/deautherx-esp8266-1.0.0/deauther-esp8266-arduino-core-2.0.0.zip",
+                    "url": "https://github.com/BlackTechX011/arduino/releases/download/deauther-esp8266-1.0.0/deautherx-esp8266-arduino-core-1.0.0.zip",
                     "archiveFileName": "deauther-esp8266-arduino-core-2.0.0.zip",
                     "checksum": "SHA-256:605ce200faa13d4689187255e9df7b4bd5979cf0b13b31e87fd0b1b3b462ccdb",
                     "size": "6700038",
