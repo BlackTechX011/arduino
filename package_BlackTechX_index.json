@@ -10,10 +10,10 @@
                 {
                     "name": "Deautherx ESP8266 Boards",
                     "architecture": "esp8266",
-                    "version": "1.0.0",
+                    "version": "1.0.1",
                     "category": "deauther",
-                    "url": "https://github.com/BlackTechX011/arduino/releases/download/deauther-esp8266-1.0.0/deautherx-esp8266-arduino-core-1.0.0.zip",
-                    "archiveFileName": "deauther-esp8266-arduino-core-2.0.0.zip",
+                    "url": "https://github.com/BlackTechX011/arduino/releases/download/deauther-esp8266-1.0.1/deautherx-esp8266-arduino-core-1.0.1.zip",
+                    "archiveFileName": "deautherx-esp8266-arduino-core-1.0.1.zip",
                     "checksum": "SHA-256:605ce200faa13d4689187255e9df7b4bd5979cf0b13b31e87fd0b1b3b462ccdb",
                     "size": "6700038",
                     "help": {
