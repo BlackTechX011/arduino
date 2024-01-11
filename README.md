@@ -1,25 +1,18 @@
 # Arduino Board Definitions
 
-Modified Arduino board definitions for projects by [Spacehuhn Technologies](https://github.com/spacehuhntech/).  
+Modified Arduino board definitions for projects by [BlackTechX](https://github.com/BlackTech011/).  
 This repository is meant to be a central place to automatically publish these project related arduino boards, so you can have an easier time installing and using them.  
-See the links below to learn more about the available platforms and their modifications.  
+## Projects
 
-## Projects & Platforms
+* [DeautherX](https://github.com/BlackTechX011/DeautherX)
 
-* [ESP8266 Deauther](https://github.com/spacehuhntech/esp8266_deauther)
-  * [ESP8266](https://github.com/spacehuhntech/arduino-esp8266/tree/deauther)
-* [WiFi Duck](https://github.com/spacehuhntech/wifiduck)
-  * [ESP8266](https://github.com/spacehuhntech/arduino-esp8266/tree/wifiduck)
-  * [AVR](https://github.com/spacehuhntech/arduino-avr/tree/wifiduck)
-  * [SAMD](https://github.com/spacehuhntech/arduino-samd/tree/wifiduck)
 
 ## Installation
 
-* Install and [Arduino IDE](https://www.arduino.cc/en/Main/Software)  
+* Install on [Arduino IDE](https://www.arduino.cc/en/Main/Software)  
 
 * Go to **File** -> **Preferences** -> **Additional Boards Manager URLs** and add:  
-   `https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_index.json`  
+   `https://raw.githubusercontent.com/BlackTechX011/arduino/main/package_BlackTechX_index.json`  
    
-* Now you can to `Tools` -> `Board` -> `Boards Manager` and install a package, for example `deauther`
+* Now go to `Tools` -> `Board` -> `Boards Manager` and install `DeautherX ESP8266`
 
-![Arduino screenshot add board manager URL](img/addurl.png)
