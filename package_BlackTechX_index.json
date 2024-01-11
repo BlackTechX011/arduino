@@ -12,7 +12,7 @@
                     "architecture": "esp8266",
                     "version": "1.0.2",
                     "category": "deauther",
-                    "url": "https://github.com/BlackTechX011/arduino/releases/download/deautherx-esp8266-1.0.2/deautherx-esp8266-arduino-core-1.0.1.zip",
+                    "url": "https://github.com/BlackTechX011/arduino/releases/download/deautherx-esp8266-1.0.2/deautherx-esp8266-arduino-core-1.0.2.zip",
                     "archiveFileName": "deautherx-esp8266-arduino-core-1.0.2.zip",
                     "checksum": "SHA-256:605ce200faa13d4689187255e9df7b4bd5979cf0b13b31e87fd0b1b3b462ccdb",
                     "size": "6700038",
