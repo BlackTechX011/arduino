@@ -2,7 +2,7 @@
     {
         "name": "DeautherX ESP8266 Boards",
         "architecture": "esp8266",
-        "version": "1.0.0",
+        "version": "2.0.0",
         "category": "deautherX",
         "url": "https://github.com/BlackTechX/arduino/releases/download/deautherx-esp8266-1.0.0/deauther-esp8266-arduino-core-2.0.0.zip",
         "archiveFileName": "deautherX-esp8266-arduino-core-2.0.0.zip",
