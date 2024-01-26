@@ -45,24 +45,25 @@
                     ],
                     "toolsDependencies": [
                         {
-                "packager": "deauther",
-                "version": "2.5.0-4-b40a506",
-                "name": "xtensa-lx106-elf-gcc"
-            },
-            {
-                "packager": "deauther",
-                "version": "2.5.0-4-b40a506",
-                "name": "mkspiffs"
-            },
-            {
-                "packager": "deauther",
-                "version": "2.5.0-4-fe5bb56",
-                "name": "mklittlefs"
-            },
-            {
-                "packager": "deauther",
-                "version": "3.7.2-post1",
-                "name": "python3"                        }
+                            "packager": "deauther",
+                            "version": "2.5.0-4-b40a506",
+                            "name": "xtensa-lx106-elf-gcc"
+                        },
+                        {
+                            "packager": "deauther",
+                            "version": "2.5.0-4-b40a506",
+                            "name": "mkspiffs"
+                        },
+                        {
+                            "packager": "deauther",
+                            "version": "2.5.0-4-fe5bb56",
+                            "name": "mklittlefs"
+                        },
+                        {
+                            "packager": "deauther",
+                            "version": "3.7.2-post1",
+                            "name": "python3"
+                        }
                     ]
                 }
             ],
