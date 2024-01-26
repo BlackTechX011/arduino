@@ -1,0 +1,107 @@
+{
+  "packages": [
+    {
+      "name": "deautherx",
+      "websiteURL": "https://github.com/BlackTechX",
+      "maintainer": "BlackTechX",
+      "help": {
+        "online": "https://github.com/BlackTechX011/DeautherX"
+      },
+      "boards": [
+        {
+          "name": "Generic ESP8266"
+        },
+        {
+          "name": "Generic ESP8285"
+        },
+        {
+          "name": "Adafruit Feather HUZZAH"
+        },
+        {
+          "name": "NodeMCU"
+        },
+        {
+          "name": "LOLIN(WEMOS) D1 mini"
+        },
+        {
+          "name": "Maltronics Deauther"
+        },
+        {
+          "name": "DSTIKE Deauther"
+        }
+      ],
+      "toolsDependencies": [
+        {
+          "packager": "deauther",
+          "version": "2.5.0-4-b40a506",
+          "name": "xtensa-lx106-elf-gcc"
+        },
+        {
+          "packager": "deauther",
+          "version": "2.5.0-4-b40a506",
+          "name": "mkspiffs"
+        },
+        {
+          "packager": "deauther",
+          "version": "2.5.0-4-fe5bb56",
+          "name": "mklittlefs"
+        },
+        {
+          "packager": "deauther",
+          "version": "3.7.2-post1",
+          "name": "python3"
+        }
+      ]
+    }
+  ],
+  "tools": [
+    {
+      "version": "3.7.2-post1",
+      "name": "python3",
+      "systems": [
+        {
+          "host": "x86_64-mingw32",
+          "url": "https://github.com/earlephilhower/esp-quick-toolchain/releases/download/2.5.0-4/python3-3.7.2.post1-embed-win32v2a.zip",
+          "archiveFileName": "python3-3.7.2.post1-embed-win32v2a.zip",
+          "checksum": "SHA-256:f57cb2daf86176d2929e7c58990c2ac32554e3219d454dcac10e464ddda35bf2",
+          "size": "6428926"
+        },
+        {
+          "host": "i686-mingw32",
+          "url": "https://github.com/earlephilhower/esp-quick-toolchain/releases/download/2.5.0-4/python3-3.7.2.post1-embed-win32va2.zip",
+          "archiveFileName": "python3-3.7.2.post1-embed-win32va2.zip",
+          "checksum": "SHA-256:f57cb2daf86176d2929e7c58990c2ac32554e3219d454dcac10e464ddda35bf2",
+          "size": "6428926"
+        },
+        {
+          "host": "aarch64-linux-gnu",
+          "url": "https://github.com/earlephilhower/esp-quick-toolchain/releases/download/2.5.0-4/python3-placeholder.tar.gz",
+          "archiveFileName": "python3-placeholder.tar.gz",
+          "checksum": "SHA-256:d8cf9d9d66423d7b90978ebe285a73a6e8611995cd0d5e6273e929a0cf2c9850",
+          "size": "191"
+        },
+        {
+          "host": "arm-linux-gnueabihf",
+          "url": "https://github.com/earlephilhower/esp-quick-toolchain/releases/download/2.5.0-4/python3-placeholder.tar.gz",
+          "archiveFileName": "python3-placeholder.tar.gz",
+          "checksum": "SHA-256:d8cf9d9d66423d7b90978ebe285a73a6e8611995cd0d5e6273e929a0cf2c9850",
+          "size": "191"
+        },
+        {
+          "host": "i686-pc-linux-gnu",
+          "url": "https://github.com/earlephilhower/esp-quick-toolchain/releases/download/2.5.0-4/python3-placeholder.tar.gz",
+          "archiveFileName": "python3-placeholder.tar.gz",
+          "checksum": "SHA-256:d8cf9d9d66423d7b90978ebe285a73a6e8611995cd0d5e6273e929a0cf2c9850",
+          "size": "191"
+        },
+        {
+          "host": "x86_64-pc-linux-gnu",
+          "url": "https://github.com/earlephilhower/esp-quick-toolchain/releases/download/2.5.0-4/python3-placeholder.tar.gz",
+          "archiveFileName": "python3-placeholder.tar.gz",
+          "checksum": "SHA-256:d8cf9d9d66423d7b90978ebe285a73a6e8611995cd0d5e6273e929a0cf2c9850",
+          "size": "191"
+        }
+      ]
+    }
+  ]
+}
