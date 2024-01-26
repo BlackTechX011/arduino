@@ -46,17 +46,17 @@
                     "toolsDependencies": [
                         {
                             "packager": "deauther",
-                            "version": "2.5.0-4-b40a506",
+                            "version": "2.0.0",
                             "name": "xtensa-lx106-elf-gcc"
                         },
                         {
                             "packager": "deauther",
-                            "version": "2.5.0-4-b40a506",
+                            "version": "2.0.0",
                             "name": "mkspiffs"
                         },
                         {
                             "packager": "deauther",
-                            "version": "2.5.0-4-fe5bb56",
+                            "version": "2.0.0",
                             "name": "mklittlefs"
                         },
                         {
