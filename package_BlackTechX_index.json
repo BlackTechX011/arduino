@@ -43,7 +43,7 @@
                             "name": "DSTIKE Deauther"
                         }
                     ],
-                    "toolsDependencies": [
+            "toolsDependencies": [
                         {
                             "packager": "deauther",
                             "version": "2.5.0-4-b40a506",
@@ -441,5 +441,3 @@
                 }
             ]
         }
-    ]
-}
