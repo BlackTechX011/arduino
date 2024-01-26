@@ -2,6 +2,7 @@
     "packages": [
         {
             "name": "deautherx",
+            "website": "https://github.com/BlackTechX",
             "maintainer": "BlackTechX",
             "help": {
                 "online": "https://github.com/BlackTechX"
@@ -17,7 +18,7 @@
                     "checksum": "SHA-256:53a2117409e3948df4104e654cd5231ec156ecf6be2e37e1ec4c61f4a19814cd",
                     "size": 165922125,
                     "help": {
-                        "online": "https://github.com/spacehuhntech/esp8266_deauther"
+                        "online": "https://github.com/BlackTechX011/DeautherX"
                     },
                     "boards": [
                         {
