@@ -1,7 +1,0 @@
-*.pyc
-.DS_Store
-*.zip
-deauther/esp8266/
-wifiduck/avr/
-wifiduck/esp8266/
-wifiduck/samd/
