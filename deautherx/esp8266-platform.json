@@ -3,7 +3,7 @@
         "name": "DeautherX ESP8266 Boards",
         "architecture": "esp8266",
         "version": "2.1.2",
-        "category": "deautherx",
+        "category": "deauther",
         "url": "https://github.com/spacehuhntech/arduino/releases/download/deauther-esp8266-2.7.5/deauther-esp8266-arduino-core-2.7.5.zip",
         "archiveFileName": "deauther-esp8266-arduino-core-2.7.5.zip",
         "checksum": "SHA-256:53a2117409e3948df4104e654cd5231ec156ecf6be2e37e1ec4c61f4a19814cd",
