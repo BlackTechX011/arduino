@@ -11,7 +11,7 @@
                 {
                     "name": "DeautherX ESP8266 Boards",
                     "architecture": "esp8266",
-                    "version": "2.1.1",
+                    "version": "2.1.2",
                     "category": "deauther",
                     "url": "https://github.com/spacehuhntech/arduino/releases/download/deauther-esp8266-2.7.5/deauther-esp8266-arduino-core-2.7.5.zip",
                     "archiveFileName": "deauther-esp8266-arduino-core-2.7.5.zip",
