@@ -15,4 +15,7 @@ This repository is meant to be a central place to automatically publish these pr
    `https://raw.githubusercontent.com/BlackTechX011/arduino/main/package_BlackTechX_index.json`  
    
 * Now go to `Tools` -> `Board` -> `Boards Manager` and install `DeautherX ESP8266`
+___
+____
 
+##### based on https://github.com/SpacehuhnTech/arduino/
